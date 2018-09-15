@@ -1,7 +1,7 @@
 # Pre-work-Project
 
 ### App Description
-I used Android Studio to create an app displays text. It starts with "Hello from Israel!," but can be modified to anything the user would like. The text color as well as the background color can be changed if desired. If the user wishes to change all the settings to the default, the background can be clicked to erase all the changes.
+I used Android Studio to create an app that displays text. It starts with "Hello from Israel!," but can be modified to anything the user would like. The text color as well as the background color can be changed if desired. If the user wishes to change all the settings to the default, the background can be clicked to erase all the changes.
 
 ### App Walk-though
 <img src="https://i.imgur.com/KVpDh3o.gifv" width=200><br>
